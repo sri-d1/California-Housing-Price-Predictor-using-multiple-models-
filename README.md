@@ -37,7 +37,7 @@ Download the repository, upload the notebook and dataset on colab, and execute!
 ```
 ## Result
 
-The performance of each model is evaluated using metrics such as mean squared error, mean absolute error, and R-squared. 
+The performance of each model is evaluated using metrics such as mean squared errorand R-squared. 
 | Technique        | R2 Score         | MSE error  |
 | ------------- | ------------- |------------- |
 | Decision Tree     |0.65         | 0.45              |
